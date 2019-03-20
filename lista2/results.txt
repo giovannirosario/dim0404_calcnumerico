@@ -1,0 +1,15 @@
+pontos escolhidos:
+-4 :: f(-4) < 0
+-1.57 :: f(-1.57) > 0    (local maximum)
+2.7 :: f(2.7) < 0       (local minimum)
+5 :: f(5) > 0
+
+a) Precisao 5 digitos
+-2.10000 took 20 iterations
+-1.00000 took 21 iterations
+4.80000 took 24 iterations
+
+b)
+
+
+
