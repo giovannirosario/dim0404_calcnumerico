@@ -61,7 +61,6 @@ double newton(double p0, int &it_count) {
     } else {
         newton(p, it_count);
     }
-
 }
 
 double secant(double p0, double p1, int &it_count) {
